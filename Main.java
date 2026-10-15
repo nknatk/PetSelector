@@ -1,3 +1,6 @@
+//Natan Kebede
+//10/15/2026
+//This program will output a recommended pet after inputing your name, favorite color, and favorite season
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
